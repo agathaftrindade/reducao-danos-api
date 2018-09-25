@@ -3,7 +3,7 @@
 var Api = (function() {
   var requestPayload;
   var responsePayload;
-  var messageEndpoint = '/api/message';
+  var messageEndpoint = 'rd-api/api/message';
 
   // Publicly accessible methods defined
   return {
